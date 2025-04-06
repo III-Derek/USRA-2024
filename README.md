@@ -6,6 +6,6 @@ Supervisor: Sue Ann Campbell
 
 Student: XinYe(Derek) Cheng
 
-Thanks: Thank you for everyone in Professor Campbell's research group who helped me, and Ivan O. Shevchenko who worked on this previously.
+Thanks: Thank you for everyone in Professor Campbell's research group who helped me, and Ivan O. Shevchenko who worked on this previously. Big thank you to Professor Campbell!
 
 
