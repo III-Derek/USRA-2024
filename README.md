@@ -1,5 +1,8 @@
-# USRA-2024
+# Understanding the Synchorization Properties of Two Coupled Izhikevich Neurons (USRA - 2024)
 
-This contains the code I created during the Summer 2024 undergraduate student research supervised by Sue Ann Campbell in the University of Waterloo
+Department: Department of Applied Mathematics at University of Waterloo
+Supervisor: Sue Ann Campbell
+Student: XinYe(Derek) Cheng
+Thanks: Thank you for everyone in Professor Campbell's research group who helped me, and Ivan O. Shevchenko who worked on this previously.
 
-# All the functions except for manual PRC can be found now in the phase_model.ipynb
+
